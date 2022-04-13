@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 36: expected statement.
+    Hide YanagataH
+                  ^
+
+Ren'Py Version: Ren'Py 7.4.11.2266
+Wed Apr 13 10:10:52 2022
